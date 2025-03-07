@@ -1,0 +1,33 @@
+/* Logo container styling */
+.logo-container {
+  height: 60px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  margin-bottom: -3px;
+  width: 60px;
+  flex-shrink: 0;
+}
+
+.logo-container iframe {
+  transform: scale(0.28);
+  transform-origin: 0 0;
+  border: 0;
+  position: absolute;
+  left: 0;
+  top: -5px;
+}
+
+/* Logo text styling */
+.logo-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 0px;
+}
+
+/* Logo wrapper to handle layout */
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}

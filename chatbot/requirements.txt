@@ -1,0 +1,13 @@
+# Java Dependencies
+org.json:json:20231013
+org.xerial:sqlite-jdbc:3.42.0.0
+
+# System Requirements
+Java 11 or higher
+Gradle build system
+
+# Frontend Dependencies
+No npm/yarn required - using CDN for:
+- TailwindCSS
+- Google Fonts (Poppins)
+- Google Material Icons

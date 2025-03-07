@@ -1,0 +1,21 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Remove numeric spinners (in case some browsers treat textarea as numeric) */
+textarea::-webkit-inner-spin-button,
+textarea::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+textarea {
+  -moz-appearance: none;
+  appearance: none;
+  resize: none; /* remove manual drag-resize corner */
+}
+
+/* Common transition */
+.transition-all {
+  transition: all 0.3s ease;
+}

@@ -1,0 +1,23 @@
+/* Slide sidebar left by its width (250px) */
+.sidebar-collapsed {
+  transform: translateX(-250px);
+}
+
+/* Search input and button styling */
+.search-container {
+  position: relative;
+  width: 100%;
+}
+
+.search-container input {
+  padding-right: 2.5rem;
+}
+
+.search-container .search-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #9ca3af;
+  pointer-events: none;
+}
