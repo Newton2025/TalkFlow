@@ -17,7 +17,7 @@ TalkFlow follows a client-server architecture:
 
 - **Frontend**: HTML, CSS (TailwindCSS), and vanilla JavaScript
 - **Backend**: Java 11 with embedded HTTP server
-- **Database**: SQLite for persistent storage
+- **Database**: Postgresql for persistent storage
 - **AI**: Google Gemini API integration
 
 ## Setup Instructions
@@ -109,4 +109,14 @@ This project is open source and available under the MIT License.
 
 - Google Gemini API for AI capabilities
 - TailwindCSS for styling
-- SQLite for database functionality
+- Postgresql for database functionality
+
+
+<img width="960" alt="{8D5BE0E3-29A2-4A5D-AD9F-EAE80CF77298}" src="https://github.com/user-attachments/assets/4d854922-1139-4939-969b-def45608887d" />
+
+<img width="959" alt="{91D2EC7B-8866-416D-807D-0AAA412071C6}" src="https://github.com/user-attachments/assets/6430d078-16a3-4fa2-b73e-621968481983" />
+
+
+<img width="959" alt="{347C16BC-282A-48F8-9576-AFA04CA4D19F}" src="https://github.com/user-attachments/assets/cdf92640-3207-4646-9477-cc9dff2eab4a" />
+
+<img width="960" alt="{70727115-2E34-43E6-AF91-176540FA2DFC}" src="https://github.com/user-attachments/assets/221eb446-0046-4dde-8949-65c8a98d5300" />
