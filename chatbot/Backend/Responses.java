@@ -13,7 +13,7 @@ import java.util.Map;
  * Handles communication with the Gemini API
  */
 public class Responses {
-    private static final String API_KEY = "AIzaSyBaXnyJwXysDZ4uu3-hq8-Pfu_ccCnPNf0";
+    private static final String API_KEY = "YOUR GEMINI API";
     private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
     private final HttpClient client;
     private final Map<String, String> chatContexts;
